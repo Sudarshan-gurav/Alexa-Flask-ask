@@ -1,0 +1,33 @@
+A1: "Hello there, May I know your name ?"
+
+A2: "{{name}}      did I     say        your name correctly?"
+
+YesA: "{{name}}      Hope you are doing good. Are you a Student or a Professional?  "
+
+NoA: "My bad! Could you please repeat it one more time?"
+
+StudA: "What do you want to become in your life ?"
+
+ProfA: "What do you do?"
+
+A4: "{{prof}}   That's impressive. May you get what you have dreamt of. All the best!   {{name}}, Where are you from?"
+
+A5 : "Where are you from?"
+
+A6: "Nice. How's the weather in {{city}} "
+
+A7Sunny: "Oh, wear sunglasses when you are going out "
+
+A8Cloudy: " Cool. Enjoy the weather."
+
+A9Rainy: "Wow! I like rain."
+
+A10Windy: "Oh you reminded me of wind mills. Ha ha ha "
+
+A11Snowy: "It must be very cold there."
+
+A12: "It was pleasure talking to you, {{name}}. Have a wonderful day."
+
+
+
+ 
