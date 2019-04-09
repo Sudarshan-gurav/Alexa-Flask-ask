@@ -90,5 +90,23 @@ stageslot
       AMAZON.GB_FIRST_NAME
       AMAZON.US_CITY
 
-Download ngrox link : https://ngrok.com/download
+Download ngrok link : https://ngrok.com/download
+
+Next The exe of ngrok move to same folder where our python file save 
+
+Open two coomand promt in same directory:
+
+1 command promt Then Hit Command :
+      
+      python ask-alexa.py 5000 
+      
+2 command promt:
+
+      ngrok.exe http 5000
+      
+After copy the  https://---------.ngrok.io from command promt
+
+select option https:
+
+That https address save into the endpoint of alexa choose the My development endpoint is a sub-domain of domain of a domain that has a wildcard certificate from certificate autority 
 
