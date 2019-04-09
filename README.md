@@ -110,3 +110,5 @@ select option https:
 
 That https address save into the endpoint of alexa choose the My development endpoint is a sub-domain of domain of a domain that has a wildcard certificate from certificate autority 
 
+Save endpoint and Build the model
+
