@@ -1,17 +1,21 @@
 # Alexa-Flask-ask
 
 Install flask-ask
-command : pip install flask-ask
+command : 
+
+      pip install flask-ask
 
 - you need python 3.6
 
 - if facing problem we need to downgrade pip 9.0.3
+      
       pip install pip==9.0.3 --user
       pip install flask_ask --user
       pip install --upgrade pip  --user 
 
 - After that install flask-ask 
-- pip install cryptography==2.1.4 --user 
+
+      pip install cryptography==2.1.4 --user 
 
 Create account in developer portal of amezon create our custom skill link:- https://developer.amazon.com 
 
@@ -20,13 +24,14 @@ Create account in developer portal of amezon create our custom skill link:- http
 - Invocation : hi (weak up word)
 
 intent name :
-        NameIntent
-        YesNoIntent
-        StuProfntIntent
-        PrefessionIntent
-        CityIntent
-        WeatherIntent
-        WeatherReplyIntent
+       
+       NameIntent
+       YesNoIntent
+       StuProfntIntent
+       PrefessionIntent
+       CityIntent
+       WeatherIntent
+       WeatherReplyIntent
 
 Utterances:
 
