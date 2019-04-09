@@ -104,7 +104,9 @@ Open two coomand promt in same directory:
 
       ngrok.exe http 5000
       
-After copy the  https://---------.ngrok.io from command promt
+After copy the 
+
+      https://---------.ngrok.io from command promt
 
 select option https:
 
