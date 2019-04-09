@@ -13,10 +13,12 @@ command : pip install flask-ask
 - After that install flask-ask 
 - pip install cryptography==2.1.4 --user 
 
-
 Create account in developer portal of amezon create our custom skill link:- https://developer.amazon.com 
-custom skill name :- Hi (anything) 
-Invocation : hi (weak up word)
+
+- custom skill name :- Hi (anything) 
+
+- Invocation : hi (weak up word)
+
 intent name :
         NameIntent
         YesNoIntent
@@ -27,37 +29,45 @@ intent name :
         WeatherReplyIntent
 
 Utterances:
+
 NameIntent: 
+
       i am {name}
       my name is {name}
       {name} here
-       {name}
+      {name}
 
 ConfirmNameIntent:
+      
       {name } here
       i am {name}
       my name is {name}
       {name}
 
 StuProfntIntent
+      
       i am {stage}
       {stage}
 
 ProfessionalIntent
+      
       {prof}
       i am {prof}
 
 CityIntent:
+      
       {city}
       i am from {city}
 
 WeatherIntent:
+      
       it's {weather} here
       it's {weather} today
       it's {weather} 
       {weather}
   
 WeatherReplyIntent
+      
       haha
       really
       thank you
